@@ -1,4 +1,7 @@
 # Redux Implementation Example
+## Deployed link:
+https://redux-example-lyart.vercel.app/
+
 
 ## Available Scripts
 
